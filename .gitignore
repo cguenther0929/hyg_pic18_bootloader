@@ -1,0 +1,12 @@
+# List of folders & file names/extensions to be ignored by the git repository.
+
+HYGBOOT.X/funclist
+HYGBOOT.X/l.obj
+HYGBOOT.X/build
+HYGBOOT.X/dist
+HYGBOOT.X/nbproject/*
+
+
+!HYGBOOT.X.X/nbproject/configurations.xml
+!HYGBOOT.X.X/nbproject/project.xml
+
